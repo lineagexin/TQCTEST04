@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">電費計算機</string>
+    <string name="title">請輸入以下資料後送出：</string>
+    <string name="text1">　伏特（Ｖ）：</string>
+    <string name="text2">　安培（Ａ）：</string>
+    <string name="text3">每天使用時數：</string>
+    <string name="text4">　每度電費　：</string>
+    <string name="btn">計算電器每月電費</string>
+    <string name="text5">[ 月皆以30天計算 ]</string>
+    <string name="option_v">選擇伏特</string>
+    <string-array name="option_vs">
+        <item>110V</item>
+        <item>220V</item>
+    </string-array>
+</resources>
